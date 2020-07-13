@@ -2,7 +2,6 @@
   "name": "app4",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://shiwani2626sinha.github.io/React-Meme-Generator",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
